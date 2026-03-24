@@ -20,5 +20,5 @@ Hey, I'm Harish 🚀  <br><br>Machine Learning enthusiast who enjoys exploring i
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harishk10718&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![snake gif](https://raw.githubusercontent.com/Harishk10718/Harishk10718/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
